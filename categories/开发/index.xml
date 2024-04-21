@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>开发 - 分类 - Fred-知识库</title>
+    <link>http://ipfred.github.io/categories/%E5%BC%80%E5%8F%91/</link>
+    <description>开发 - 分类 | Fred-知识库</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>330446875@qq.com (Fred)</managingEditor>
+      <webMaster>330446875@qq.com (Fred)</webMaster><lastBuildDate>Mon, 20 Feb 2023 20:14:22 &#43;0800</lastBuildDate><atom:link href="http://ipfred.github.io/categories/%E5%BC%80%E5%8F%91/" rel="self" type="application/rss+xml" /><item>
+  <title>我的第一篇文章</title>
+  <link>http://ipfred.github.io/posts/first_post/</link>
+  <pubDate>Mon, 20 Feb 2023 20:14:22 &#43;0800</pubDate>
+  <author>Fred</author>
+  <guid>http://ipfred.github.io/posts/first_post/</guid>
+  <description><![CDATA[常用数据库的读写方式A blog (a truncation of &ldquo;weblog&rdquo;) is an informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries (posts). Posts are typically displayed in reverse chronological order so that the most recent post appears first, at the top of the web page. Until 2009, blogs were usually the work of a single individual,[citation needed] occasionally of a small group, and often covered a single subject or topic.]]></description>
+</item>
+</channel>
+</rss>
