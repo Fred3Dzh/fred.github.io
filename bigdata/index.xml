@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bigdata on Fred的知识库</title>
+    <link>https://ipfred.github.io/bigdata/</link>
+    <description>Recent content in bigdata on Fred的知识库</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>zh-CN</language>
+    <managingEditor>330446875@qq.com (Fred)</managingEditor>
+    <webMaster>330446875@qq.com (Fred)</webMaster>
+    <copyright>本站内容采用 CC BY-NC-SA 4.0 国际许可协议。</copyright>
+    <lastBuildDate>Sun, 21 Apr 2024 22:20:02 +0800</lastBuildDate>
+    <atom:link href="https://ipfred.github.io/bigdata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>spark简单介绍</title>
+      <link>https://ipfred.github.io/bigdata/spark/spark%E5%85%A5%E9%97%A8/</link>
+      <pubDate>Sat, 20 Apr 2024 20:14:22 +0800</pubDate><author>330446875@qq.com (Fred)</author>
+      <guid>https://ipfred.github.io/bigdata/spark/spark%E5%85%A5%E9%97%A8/</guid>
+      <description>1 Apache Spark A Unified engine for large-scale data analytics Apache Spark is a unified analytics engine for large-scale data processing. It provides high-level APIs in Java, Scala, Python and R, and an optimized engine that supports general execution graphs. It also supports a rich set of higher-level tools including Spark SQL for SQL and structured data processing, pandas API on Spark for pandas workloads, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for incremental computation and stream processing. 2 DownloadingGet Spark from the downloads page of the project website. This documentation is for Spark version 3.5.1. Spark uses Hadoop’s client libraries for HDFS and YARN. Downloads are pre-packaged for a handful of popular Hadoop versions. Users can also download a “Hadoop free” binary and run Spark with any Hadoop</description>
+    </item>
+    <item>
+      <title>Hadoop的简介</title>
+      <link>https://ipfred.github.io/bigdata/hadoop/hadoop%E7%AE%80%E4%BB%8B/</link>
+      <pubDate>Mon, 20 Feb 2023 20:14:22 +0800</pubDate><author>330446875@qq.com (Fred)</author>
+      <guid>https://ipfred.github.io/bigdata/hadoop/hadoop%E7%AE%80%E4%BB%8B/</guid>
+      <description>1 目的这篇文档的目的是帮助你快速完成单机上的Hadoop安装与使用以便你对Hadoop分布式文件系统(HDFS)和Map-Reduce框架有所体会，比如在HDFS上运行示例程序或简单作业等。 2 先决条件支持平台 GNU/Linux是产品开发和运行的平台。 Hadoop已在有2000个节点的GNU/Linu</description>
+    </item>
+  </channel>
+</rss>

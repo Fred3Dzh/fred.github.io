@@ -1,35 +1,88 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Fred-知识库</title>
-    <link>http://ipfred.github.io/</link>
-    <description>Fred-知识库</description>
+    <title>Fred的知识库</title>
+    <link>https://ipfred.github.io/</link>
+    <description>Fred&#39;s Note：探索、分享、记录自己在工作生活学习到一些东西。</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>330446875@qq.com (Fred)</managingEditor>
-      <webMaster>330446875@qq.com (Fred)</webMaster><lastBuildDate>Sat, 20 Apr 2024 16:51:10 &#43;0800</lastBuildDate>
-      <atom:link href="http://ipfred.github.io/index.xml" rel="self" type="application/rss+xml" />
+      <webMaster>330446875@qq.com (Fred)</webMaster><copyright>本站内容采用 CC BY-NC-SA 4.0 国际许可协议。</copyright><lastBuildDate>Sat, 20 Apr 2024 20:14:22 &#43;0800</lastBuildDate>
+      <atom:link href="https://ipfred.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+  <title>spark简单介绍</title>
+  <link>https://ipfred.github.io/posts/spark%E5%85%A5%E9%97%A8/</link>
+  <pubDate>Sat, 20 Apr 2024 20:14:22 &#43;0800</pubDate>
+  <author>Fred</author>
+  <guid>https://ipfred.github.io/posts/spark%E5%85%A5%E9%97%A8/</guid>
+  <description><![CDATA[<h2 id="apache-spark" class="heading-element">
+  <a href="#apache-spark" class="heading-mark"></a>Apache Spark</h2><ul>
+<li>A Unified engine for large-scale data analytics
+Apache Spark is a unified analytics engine for large-scale data processing. It provides high-level APIs in Java, Scala, Python and R, and an optimized engine that supports general execution graphs. It also supports a rich set of higher-level tools including Spark SQL for SQL and structured data processing, pandas API on Spark for pandas workloads, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for incremental computation and stream processing.</li>
+</ul>
+<h2 id="downloading" class="heading-element">
+  <a href="#downloading" class="heading-mark"></a>Downloading</h2><p>Get Spark from the downloads page of the project website. This documentation is for Spark version 3.5.1. Spark uses Hadoop’s client libraries for HDFS and YARN. Downloads are pre-packaged for a handful of popular Hadoop versions. Users can also download a “Hadoop free” binary and run Spark with any Hadoop version by augmenting Spark’s classpath. Scala and Java users can include Spark in their projects using its Maven coordinates and Python users can install Spark from PyPI.</p>
+<p>If you’d like to build Spark from source, visit Building Spark.</p>
+]]></description>
+</item>
+<item>
   <title>My First Post</title>
-  <link>http://ipfred.github.io/posts/my-first-post/</link>
+  <link>https://ipfred.github.io/posts/my-first-post/</link>
   <pubDate>Sat, 20 Apr 2024 16:51:10 &#43;0800</pubDate>
   <author>Fred</author>
-  <guid>http://ipfred.github.io/posts/my-first-post/</guid>
-  <description><![CDATA[IntroductionThis is bold text, and this is emphasized text.
-Visit the Hugo website!]]></description>
+  <guid>https://ipfred.github.io/posts/my-first-post/</guid>
+  <description><![CDATA[<h2 id="introduction" class="heading-element">
+  <a href="#introduction" class="heading-mark"></a>Introduction</h2><p>This is <strong>bold</strong> text, and this is <em>emphasized</em> text.</p>
+<p>Visit the <a href="https://gohugo.io"target="_blank" rel="external nofollow noopener noreferrer">Hugo<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> website!</p>
+]]></description>
 </item>
 <item>
   <title>我的第二篇文章</title>
-  <link>http://ipfred.github.io/posts/second_post/</link>
+  <link>https://ipfred.github.io/posts/second_post/</link>
   <pubDate>Tue, 20 Feb 2024 20:14:22 &#43;0800</pubDate>
   <author>Fred</author>
-  <guid>http://ipfred.github.io/posts/second_post/</guid>
-  <description><![CDATA[常用数据库的读写方式A blog (a truncation of &ldquo;weblog&rdquo;) is an informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries (posts). Posts are typically displayed in reverse chronological order so that the most recent post appears first, at the top of the web page. Until 2009, blogs were usually the work of a single individual,[citation needed] occasionally of a small group, and often covered a single subject or topic.]]></description>
+  <guid>https://ipfred.github.io/posts/second_post/</guid>
+  <description><![CDATA[<h2 id="常用数据库的读写方式" class="heading-element">
+  <a href="#%e5%b8%b8%e7%94%a8%e6%95%b0%e6%8d%ae%e5%ba%93%e7%9a%84%e8%af%bb%e5%86%99%e6%96%b9%e5%bc%8f" class="heading-mark"></a>常用数据库的读写方式</h2><p>A blog (a truncation of &ldquo;weblog&rdquo;) is an informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries (posts). Posts are typically displayed in reverse chronological order so that the most recent post appears first, at the top of the web page. Until 2009, blogs were usually the work of a single individual,[citation needed] occasionally of a small group, and often covered a single subject or topic. In the 2010s, &ldquo;multi-author blogs&rdquo; (MABs) emerged, featuring the writing of multiple authors and sometimes professionally edited. MABs from newspapers, other media outlets, universities, think tanks, advocacy groups, and similar institutions account for an increasing quantity of blog traffic. The rise of Twitter and other &ldquo;microblogging&rdquo; systems helps integrate MABs and single-author blogs into the news media. Blog can also be used as a verb, meaning to maintain or add content to a blog.</p>
+<h2 id="标题二" class="heading-element">
+  <a href="#%e6%a0%87%e9%a2%98%e4%ba%8c" class="heading-mark"></a>标题二</h2><h2 id="标题三" class="heading-element">
+  <a href="#%e6%a0%87%e9%a2%98%e4%b8%89" class="heading-mark"></a>标题三</h2>]]></description>
+</item>
+<item>
+  <title>Hadoop的简介</title>
+  <link>https://ipfred.github.io/posts/hadoop%E7%AE%80%E4%BB%8B/</link>
+  <pubDate>Mon, 20 Feb 2023 20:14:22 &#43;0800</pubDate>
+  <author>Fred</author>
+  <guid>https://ipfred.github.io/posts/hadoop%E7%AE%80%E4%BB%8B/</guid>
+  <description><![CDATA[<h2 id="目的" class="heading-element">
+  <a href="#%e7%9b%ae%e7%9a%84" class="heading-mark"></a>目的</h2><p>这篇文档的目的是帮助你快速完成单机上的Hadoop安装与使用以便你对Hadoop分布式文件系统(HDFS)和Map-Reduce框架有所体会，比如在HDFS上运行示例程序或简单作业等。</p>
+<h2 id="先决条件" class="heading-element">
+  <a href="#%e5%85%88%e5%86%b3%e6%9d%a1%e4%bb%b6" class="heading-mark"></a>先决条件</h2><p>支持平台
+GNU/Linux是产品开发和运行的平台。 Hadoop已在有2000个节点的GNU/Linux主机组成的集群系统上得到验证。
+Win32平台是作为开发平台支持的。由于分布式操作尚未在Win32平台上充分测试，所以还不作为一个生产平台被支持。
+所需软件
+Linux和Windows所需软件包括:</p>
+<p>JavaTM1.5.x，必须安装，建议选择Sun公司发行的Java版本。
+ssh 必须安装并且保证 sshd一直运行，以便用Hadoop 脚本管理远端Hadoop守护进程。
+Windows下的附加软件需求</p>
+<p>Cygwin - 提供上述软件之外的shell支持。</p>
+<h2 id="安装软件" class="heading-element">
+  <a href="#%e5%ae%89%e8%a3%85%e8%bd%af%e4%bb%b6" class="heading-mark"></a>安装软件</h2><p>如果你的集群尚未安装所需软件，你得首先安装它们。</p>
+<p>以Ubuntu Linux为例:</p>
+<p>$ sudo apt-get install ssh
+$ sudo apt-get install rsync</p>
+<p>在Windows平台上，如果安装cygwin时未安装全部所需软件，则需启动cyqwin安装管理器安装如下软件包：</p>
+<p>openssh - Net 类</p>
+]]></description>
 </item>
 <item>
   <title>我的第一篇文章</title>
-  <link>http://ipfred.github.io/posts/first_post/</link>
+  <link>https://ipfred.github.io/posts/first_post/</link>
   <pubDate>Mon, 20 Feb 2023 20:14:22 &#43;0800</pubDate>
   <author>Fred</author>
-  <guid>http://ipfred.github.io/posts/first_post/</guid>
-  <description><![CDATA[常用数据库的读写方式A blog (a truncation of &ldquo;weblog&rdquo;) is an informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries (posts). Posts are typically displayed in reverse chronological order so that the most recent post appears first, at the top of the web page. Until 2009, blogs were usually the work of a single individual,[citation needed] occasionally of a small group, and often covered a single subject or topic.]]></description>
+  <guid>https://ipfred.github.io/posts/first_post/</guid>
+  <description><![CDATA[<h2 id="常用数据库的读写方式" class="heading-element">
+  <a href="#%e5%b8%b8%e7%94%a8%e6%95%b0%e6%8d%ae%e5%ba%93%e7%9a%84%e8%af%bb%e5%86%99%e6%96%b9%e5%bc%8f" class="heading-mark"></a>常用数据库的读写方式</h2><p>A blog (a truncation of &ldquo;weblog&rdquo;) is an informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries (posts). Posts are typically displayed in reverse chronological order so that the most recent post appears first, at the top of the web page. Until 2009, blogs were usually the work of a single individual,[citation needed] occasionally of a small group, and often covered a single subject or topic. In the 2010s, &ldquo;multi-author blogs&rdquo; (MABs) emerged, featuring the writing of multiple authors and sometimes professionally edited. MABs from newspapers, other media outlets, universities, think tanks, advocacy groups, and similar institutions account for an increasing quantity of blog traffic. The rise of Twitter and other &ldquo;microblogging&rdquo; systems helps integrate MABs and single-author blogs into the news media. Blog can also be used as a verb, meaning to maintain or add content to a blog.</p>
+<h2 id="标题二" class="heading-element">
+  <a href="#%e6%a0%87%e9%a2%98%e4%ba%8c" class="heading-mark"></a>标题二</h2><h2 id="标题三" class="heading-element">
+  <a href="#%e6%a0%87%e9%a2%98%e4%b8%89" class="heading-mark"></a>标题三</h2>]]></description>
 </item>
 </channel>
 </rss>

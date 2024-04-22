@@ -9,6 +9,6 @@ Visit the [Hugo](https://gohugo.io) website!
 
 ---
 
-> 作者: Fred  
-> URL: http://ipfred.github.io/posts/my-first-post/  
+> 作者: [Fred](https://github.com/ipfred)  
+> URL: https://ipfred.github.io/posts/my-first-post/  
 

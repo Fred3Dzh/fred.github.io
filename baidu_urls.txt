@@ -1,0 +1,9 @@
+https://ipfred.github.io/bigdata/spark/spark%E5%85%A5%E9%97%A8/
+https://ipfred.github.io/posts/spark%E5%85%A5%E9%97%A8/
+https://ipfred.github.io/posts/my-first-post/
+https://ipfred.github.io/posts/second_post/
+https://ipfred.github.io/bigdata/hadoop/hadoop%E7%AE%80%E4%BB%8B/
+https://ipfred.github.io/posts/hadoop%E7%AE%80%E4%BB%8B/
+https://ipfred.github.io/lang/python/first/
+https://ipfred.github.io/lang/python/second/
+https://ipfred.github.io/posts/first_post/

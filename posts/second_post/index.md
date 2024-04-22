@@ -9,6 +9,6 @@ A blog (a truncation of &#34;weblog&#34;) is an informational website published 
 
 ---
 
-> 作者: Fred  
-> URL: http://ipfred.github.io/posts/second_post/  
+> 作者: [Fred](https://github.com/ipfred)  
+> URL: https://ipfred.github.io/posts/second_post/  
 
