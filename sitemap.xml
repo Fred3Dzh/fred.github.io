@@ -2,29 +2,29 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>https://ipfred.github.io/bigdata/</loc><lastmod>2024-04-21T22:20:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://ipfred.github.io/categories/</loc><lastmod>2024-04-21T23:12:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://ipfred.github.io/collections/</loc><lastmod>2024-04-21T23:12:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://ipfred.github.io/</loc><lastmod>2024-04-21T23:12:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://ipfred.github.io/posts/</loc><lastmod>2024-04-21T23:12:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://ipfred.github.io/categories/</loc><lastmod>2024-04-23T23:55:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://ipfred.github.io/collections/</loc><lastmod>2024-04-23T23:55:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://ipfred.github.io/</loc><lastmod>2024-04-23T23:57:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://ipfred.github.io/tags/hadoop/</loc><lastmod>2024-04-23T23:55:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://ipfred.github.io/bigdata/hadoop/hadoop%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%9A%84%E4%BD%BF%E7%94%A8/</loc><lastmod>2024-04-23T23:55:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://ipfred.github.io/tags/</loc><lastmod>2024-04-23T23:55:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://ipfred.github.io/collections/%E5%A4%A7%E6%95%B0%E6%8D%AE/</loc><lastmod>2024-04-23T23:55:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://ipfred.github.io/bigdata/hadoop/hadoop%E6%A6%82%E8%A7%88/</loc><lastmod>2024-04-23T23:55:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://ipfred.github.io/categories/%E5%BC%80%E5%8F%91/</loc><lastmod>2024-04-23T23:55:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>https://ipfred.github.io/tags/spark/</loc><lastmod>2024-04-21T22:20:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>https://ipfred.github.io/bigdata/spark/spark%E5%85%A5%E9%97%A8/</loc><lastmod>2024-04-21T22:20:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://ipfred.github.io/posts/spark%E5%85%A5%E9%97%A8/</loc><lastmod>2024-04-21T22:20:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://ipfred.github.io/tags/</loc><lastmod>2024-04-21T23:12:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>https://ipfred.github.io/collections/%E5%A4%A7%E6%95%B0%E6%8D%AE1/</loc><lastmod>2024-04-21T22:20:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://ipfred.github.io/categories/%E5%BC%80%E5%8F%91/</loc><lastmod>2024-04-21T23:12:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://ipfred.github.io/posts/my-first-post/</loc><lastmod>2024-04-21T23:12:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://ipfred.github.io/tags/%E6%B5%8B%E8%AF%95/</loc><lastmod>2024-04-21T23:12:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://ipfred.github.io/posts/second_post/</loc><lastmod>2024-04-21T23:12:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://ipfred.github.io/tags/hadoop/</loc><lastmod>2024-04-21T22:18:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://ipfred.github.io/bigdata/hadoop/hadoop%E7%AE%80%E4%BB%8B/</loc><lastmod>2024-04-21T22:18:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://ipfred.github.io/posts/hadoop%E7%AE%80%E4%BB%8B/</loc><lastmod>2024-04-21T22:18:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://ipfred.github.io/lang/java/</loc><lastmod>2024-04-21T23:12:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://ipfred.github.io/lang/</loc><lastmod>2024-04-21T23:12:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://ipfred.github.io/lang/python/</loc><lastmod>2024-04-21T23:12:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://ipfred.github.io/lang/python/first/</loc><lastmod>2024-04-21T23:12:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://ipfred.github.io/lang/python/second/</loc><lastmod>2024-04-21T23:12:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://ipfred.github.io/collections/shoucang/</loc><lastmod>2024-04-21T23:12:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://ipfred.github.io/collections/%E5%A4%A7%E6%95%B0%E6%8D%AE2/</loc><lastmod>2024-04-21T22:18:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://ipfred.github.io/collections/%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</loc><lastmod>2024-04-21T23:12:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://ipfred.github.io/posts/first_post/</loc><lastmod>2024-04-21T23:12:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
+      <loc>https://ipfred.github.io/posts/my-first-post/</loc><lastmod>2024-04-23T22:57:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://ipfred.github.io/posts/</loc><lastmod>2024-04-23T22:57:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://ipfred.github.io/tags/%E6%B5%8B%E8%AF%95/</loc><lastmod>2024-04-23T22:57:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://ipfred.github.io/posts/second_post/</loc><lastmod>2024-04-23T22:57:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://ipfred.github.io/lang/java/</loc><lastmod>2024-04-23T22:57:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://ipfred.github.io/lang/</loc><lastmod>2024-04-23T22:57:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://ipfred.github.io/lang/python/</loc><lastmod>2024-04-23T22:57:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://ipfred.github.io/lang/python/first/</loc><lastmod>2024-04-23T22:57:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://ipfred.github.io/lang/python/second/</loc><lastmod>2024-04-23T22:57:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://ipfred.github.io/collections/shoucang/</loc><lastmod>2024-04-23T22:57:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://ipfred.github.io/collections/%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</loc><lastmod>2024-04-23T22:57:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://ipfred.github.io/posts/first_post/</loc><lastmod>2024-04-23T22:57:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://ipfred.github.io/bigdata/</loc><lastmod>2024-04-23T23:57:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://ipfred.github.io/categories/project/</loc><lastmod>2024-04-23T23:10:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>

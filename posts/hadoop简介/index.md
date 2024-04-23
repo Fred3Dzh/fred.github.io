@@ -31,5 +31,5 @@ openssh - Net 类
 ---
 
 > 作者: [Fred](https://github.com/ipfred)  
-> URL: https://ipfred.github.io/posts/hadoop%E7%AE%80%E4%BB%8B/  
+> URL: http://localhost:1313/posts/hadoop%E7%AE%80%E4%BB%8B/  
 

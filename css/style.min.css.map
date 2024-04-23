@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/Users/fred/Desktop/my_work/hugo_test/quickstart",
+	"sourceRoot": "/Users/fred/Desktop/my_know/kugo_blog",
 	"sources": [
 		"themes/github.com/hugo-fixit/FixIt/assets/css/style.scss",
 		"themes/github.com/hugo-fixit/FixIt/assets/css/_variables.scss",

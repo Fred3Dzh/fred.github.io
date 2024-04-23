@@ -12,5 +12,5 @@ If you’d like to build Spark from source, visit Building Spark.
 ---
 
 > 作者: [Fred](https://github.com/ipfred)  
-> URL: https://ipfred.github.io/posts/spark%E5%85%A5%E9%97%A8/  
+> URL: http://localhost:1313/posts/spark%E5%85%A5%E9%97%A8/  
 
